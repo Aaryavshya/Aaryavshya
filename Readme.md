@@ -1,3 +1,3 @@
-<h1>Aaradhaya Sharma</h1>
+<h1>Aaradhya Sharma</h1>
 <hr>
 <p>Hello World</p>
